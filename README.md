@@ -7,18 +7,12 @@ The core architecture is based on a neural network model—typically a Sequence-
 
     Natural Language Understanding (NLU): The chatbot can understand user intent and extract relevant information from input sentences.
 
-    Contextual Conversations: Deep learning enables the chatbot to maintain context across multiple turns of conversation.
-
-    Response Generation: Uses an encoder-decoder architecture to generate meaningful and contextually accurate replies.
-
-    Pretrained Models: May utilize pretrained NLP models such as GPT, BERT, or T5 for better performance and faster development.
-
 🛠️ Technologies Used:
 
     Python
 
     TensorFlow / PyTorch
-
+    
     NLTK / spaCy for preprocessing
 
     Transformers (Hugging Face library)
